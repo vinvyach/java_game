@@ -1,3 +1,5 @@
+package ru.ru.ru;
+
 import java.util.Scanner;
 
 public class HiLo {
